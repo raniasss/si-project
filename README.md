@@ -8,7 +8,7 @@ Application extranet qui permet à un employé de déclarer une panne
 informatique, de joindre la capture d'écran du bug et de suivre la
 résolution par un technicien.
 
-- 🚀 **Production** :
+- 🚀 **Production** :https://si-project-omega.vercel.app/
 - 📦 **Repo** : https://github.com/raniasss/si-project
 - 🧪 **Compte de test** : "r_saidi@estin.dz" / "estin2026" 
 
