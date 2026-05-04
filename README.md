@@ -8,9 +8,9 @@ Application extranet qui permet à un employé de déclarer une panne
 informatique, de joindre la capture d'écran du bug et de suivre la
 résolution par un technicien.
 
-- 🚀 **Production** : https://project-it-fix.vercel.app _(à renseigner)_
-- 📦 **Repo** : https://github.com/raniasss/project-IT-Fix
-- 🧪 **Compte de test** : `demo@it-fix.dz` / `demoitfix` _(à créer après setup)_
+- 🚀 **Production** :
+- 📦 **Repo** : https://github.com/raniasss/si-project
+- 🧪 **Compte de test** : "r_saidi@estin.dz" / "estin2026" 
 
 ---
 
