@@ -9,7 +9,7 @@ export async function Navbar() {
   } = await supabase.auth.getUser();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-slate-900/[0.07] bg-white/82 backdrop-blur-2xl">
+    <header className="sticky top-0 z-50 border-b border-white/10 bg-white/5 backdrop-blur-2xl">
       <div className="mx-auto flex min-h-[4rem] max-w-6xl flex-wrap items-center justify-between gap-2 px-4 py-2 sm:flex-nowrap sm:px-6 lg:px-8">
         <Link
           href="/"
